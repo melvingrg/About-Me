@@ -12,4 +12,4 @@ What I do:
 
 I believe that clear requirements are the foundation of successful products. With a keen eye for detail and a commitment to excellence, I aim to provide superior vision and clarity in product roadmaps and documentation, helping to reduce technical debt and ensure continuous improvement.
 
-:Email: melvingeorge1010@gmail.com
+:email: melvingeorge1010@gmail.com

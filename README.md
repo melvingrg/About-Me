@@ -1,7 +1,7 @@
 # About-Me
 ## Hi :wave:
 
-I am an engineer turned Technical Writer :page_with_curl: and Business Analyst :chart_with_upwards_trend: with a knack for storytelling :stars:. 
+I am an engineer turned Technical Writer :page_with_curl: and Scrum Master :chart_with_upwards_trend: with a knack for storytelling :stars:. 
 My passion lies in driving customer success through clear and concise requirement gathering and documentation. With a strong enthusiasm for product improvements and customer satisfaction, I bring clarity to requirements, leading to better products.
 
 What I do:
